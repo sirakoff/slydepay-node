@@ -1,0 +1,42 @@
+{
+  "_from": "git+https://github.com/sirakoff/slydepay-node.git",
+  "_id": "slydepay-wrapper@1.0.0",
+  "_inBundle": false,
+  "_location": "/slydepay-wrapper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/sirakoff/slydepay-node.git",
+    "rawSpec": "git+https://github.com/sirakoff/slydepay-node.git",
+    "saveSpec": "git+https://github.com/sirakoff/slydepay-node.git",
+    "fetchSpec": "https://github.com/sirakoff/slydepay-node.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/sirakoff/slydepay-node.git#627d7bbae0780b452e8f614c6129fcdb56d14990",
+  "_spec": "git+https://github.com/sirakoff/slydepay-node.git",
+  "_where": "C:\\Users\\Sirakov\\Documents\\Projects\\ahoom",
+  "author": {
+    "name": "Barnabas Nomo",
+    "email": "barnabas@elite-education.org",
+    "url": "http://www.barnabasnomo.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0"
+  },
+  "deprecated": false,
+  "description": "A slydepay api for node.js apps",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "slydepay-wrapper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
